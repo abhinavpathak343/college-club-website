@@ -1,7 +1,7 @@
 
 # BIAS Club Website
 
-This is the official website for the BIAS Club, built using HTML, CSS, and JavaScript. The website features various sections including a home page, about us, events, and a fully functional contact form.
+This is the  website for the BIAS Club, built using HTML, CSS, and JavaScript. The website features various sections including a home page, about us, events, and a fully functional contact form.
 
 ## 🏆 Achievements
 
